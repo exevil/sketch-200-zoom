@@ -1,0 +1,23 @@
+{
+  "author" : "",
+  "commands" : [
+    {
+      "script" : "script.cocoascript",
+      "handler" : "onRun",
+      "shortcut" : "ctrl 1",
+      "name" : "200% Zoom",
+      "identifier" : "200% zoom"
+    }
+  ],
+  "menu" : {
+    "items" : [
+      "200% zoom"
+    ],
+    "title" : "200% Zoom"
+  },
+  "identifier" : "com.example.sketch.abc8799a-3670-4140-9cfe-c445c730bab5",
+  "version" : "1.0",
+  "description" : "",
+  "authorEmail" : "",
+  "name" : "200% Zoom"
+}
